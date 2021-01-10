@@ -93,7 +93,7 @@ nlu:
 
 - intent: ask_weather
   examples:
-    - what is the weather now
-    - may i know the weather
-    - is it sunny outside
-    - is it raining now
+    - what is the weather now ?
+    - may i know the weather ?
+    - is it sunny outside ?
+    - is it raining now ?
